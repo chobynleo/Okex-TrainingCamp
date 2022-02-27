@@ -1,0 +1,6 @@
+.mnemonic*
+node_modules
+.history
+artifacts
+build/*
+cache/*
